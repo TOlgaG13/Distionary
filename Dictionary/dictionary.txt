@@ -1,0 +1,6 @@
+apple=яблуко
+computer=комп'ютер
+city=місто
+book=книга
+hello=привіт
+flower=квітка
